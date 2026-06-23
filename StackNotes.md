@@ -5,8 +5,8 @@
 A stack similar to an array can store multiple data items of the same type
 
 We can do two operations on a stack 
- -[] Push an item onto the stack
- -[] Pop an item from the stack  
+ - [] Push an item onto the stack
+ - [] Pop an item from the stack  
 
 Pushishing adds it to one end (the stack top)
 Popping removes it from the the stack top
@@ -16,4 +16,3 @@ Popping removes it from the the stack top
 ### Implementation Details 
 
  - Store items of stack in an Array 
- 
