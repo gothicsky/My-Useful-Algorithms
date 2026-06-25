@@ -19,7 +19,7 @@ Popping removes it from the the stack top
  - [ ] A seperate integer called top marks the position of stack top 
  - [ ] If the stack is empty, top has value 0
  - [ ] To push an item onto the stack store the item in contents at the position indicated by top then increment the top
- - [ ] To pop an item from the stack, decrement the top, then use it as an index into contents to fetch the item being popped
+ - [ ] To pop an item from the stack, decrement the top, then use it as an index into contents to fetch the item being popped (fetch the item!)
 
 ### Plan 
 
