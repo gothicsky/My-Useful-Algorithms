@@ -20,3 +20,9 @@ Popping removes it from the the stack top
  - [ ] If the stack is empty, top has value 0
  - [ ] To push an item onto the stack store the item in contents at the position indicated by top then increment the top
  - [ ] To pop an item from the stack, decrement the top, then use it as an index into contents to fetch the item being popped
+
+### Plan 
+
+- Identify the external variables (contents and top)
+- Add push function 
+- Add pop function 
